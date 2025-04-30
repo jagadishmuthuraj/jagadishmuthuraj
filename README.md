@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Jagadish Muthuraj] — Business Analyst | Data Enthusiast | Problem Solver
+# 👋 Hello, I'm Jagadish Muthuraj — Business Analyst | Data Enthusiast | Problem Solver
 
 Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong foundation in turning data into actionable insights and driving strategic decisions. With a keen eye for detail and a love for solving real-world problems, I use data to tell compelling stories and guide impactful business outcomes.
 
