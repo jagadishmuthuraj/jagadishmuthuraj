@@ -23,8 +23,7 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-filled/100/sql.png" alt="SQL" title="SQL" height="80"/>
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/jira.png" alt="JIRA" title="JIRA" height="80"/>
-  &nbsp;&nbsp;
+  
  
  
 ---
