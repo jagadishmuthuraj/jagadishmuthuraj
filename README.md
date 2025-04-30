@@ -12,6 +12,20 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 - **Documentation & Reporting**: BRD, FRD, user stories, dashboards, and presentations  
 - **Soft Skills**: Communication, critical thinking, collaboration, time management
 
+
+
+### 🔧 Technical Skills & Tools
+
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Agile" />
+</p>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+
+  
 ---
 
 ## 📊 What You'll Find Here
