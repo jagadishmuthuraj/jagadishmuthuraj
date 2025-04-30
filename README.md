@@ -12,6 +12,8 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 - **Documentation & Reporting**: BRD, FRD, user stories, dashboards, and presentations  
 - **Soft Skills**: Communication, critical thinking, collaboration, time management
 
+![Power BI Logo](path/to/power-bi-logo.png)
+
 ---
 
 ## 📊 What You'll Find Here
