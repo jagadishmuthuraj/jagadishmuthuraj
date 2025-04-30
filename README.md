@@ -18,18 +18,11 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" height="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI" title="Power BI" height="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/100/sql.png" alt="SQL" title="SQL" height="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/144/jira.png" alt="JIRA" title="JIRA" height="100" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/office/144/confluence.png" alt="Confluence" title="Confluence" height="100" />
-</p>
+ ![ms excel](https://github.com/user-attachments/assets/a8f20380-cbd2-4b83-9808-bac7f677236b)
+ ![mspower bi](https://github.com/user-attachments/assets/db4baa9c-a73c-4e9f-8c74-a142075dc09e)
 
-  
+ 
+
 ---
 
 ## 📊 What You'll Find Here
