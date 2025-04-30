@@ -12,8 +12,6 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 - **Documentation & Reporting**: BRD, FRD, user stories, dashboards, and presentations  
 - **Soft Skills**: Communication, critical thinking, collaboration, time management
 
-![225f6ba0-00e2-4184-98ee-95178c6856c7](https://github.com/user-attachments/assets/b4516dbc-2407-4c41-9414-e139d1249484)
-
 ---
 
 ## 📊 What You'll Find Here
