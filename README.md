@@ -17,8 +17,7 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 ### 🔧 Technical Skills & Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/144/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" height="100" />
-  &nbsp;&nbsp;&nbsp;
+  <img src=![mspower bi](https://github.com/user-attachments/assets/948692fd-9310-443d-900d-e2cd9c1d3fc0)
   <img src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI" title="Power BI" height="100" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-filled/100/sql.png" alt="SQL" title="SQL" height="100" />
