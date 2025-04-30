@@ -17,13 +17,18 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 ### 🔧 Technical Skills & Tools
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agile_logo.svg/1200px-Agile_logo.svg.png" alt="Agile" height="28px" />
+<p align="center">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" title="Microsoft Excel" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" title="Power BI" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/sql.png" alt="SQL" title="SQL" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/96/jira.png" alt="JIRA" title="JIRA" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/office/96/confluence.png" alt="Confluence" title="Confluence" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Agile_logo.svg/512px-Agile_logo.svg.png" alt="Agile" title="Agile Methodology" height="80"/>
 </p>
 
   
