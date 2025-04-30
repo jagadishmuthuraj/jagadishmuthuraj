@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 
 
 ### 🔧 Technical Skills & Tools
+[Uploading power bi , excel , sql in one logos - Google Search.html…]()
 
- ![Power-BI-Desktop-Feature-image](https://github.com/user-attachments/assets/74cf6dab-f9d1-43f4-a83f-1ed28bc934eb)
 
 ---
 
