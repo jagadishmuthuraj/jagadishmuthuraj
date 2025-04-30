@@ -16,9 +16,9 @@ Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong founda
 
 ### 🔧 Technical Skills & Tools
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.softwebsolutions.com%2Fresources%2Fpower-bi-desktop-analysis-services.html&psig=AOvVaw1OeedeGnkSJJCyfZrsMhdN&ust=1746071106877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjk7PLr_owDFQAAAAAdAAAAABAE
-  
- 
+
+ ![Power-BI-Desktop-Feature-image](https://github.com/user-attachments/assets/75fcf0fc-9cd4-44d8-ba4c-df5e033b46ee)
+
  
 ---
 
