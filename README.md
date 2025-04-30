@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm [Jagadish Muthuraj] — Business Analyst | Data Enthusiast | Problem Solver
 
-<!--
-**jagadishmuthuraj/jagadishmuthuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Business Analyst** with a strong foundation in turning data into actionable insights and driving strategic decisions. With a keen eye for detail and a love for solving real-world problems, I use data to tell compelling stories and guide impactful business outcomes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Expertise
+
+- **Business Analysis**: Requirements gathering, stakeholder management, gap analysis, and solution evaluation  
+- **Data Analysis**: Excel, SQL, Power BI. 
+- **Agile & Project Management**: JIRA, Confluence, Scrum methodology  
+- **Documentation & Reporting**: BRD, FRD, user stories, dashboards, and presentations  
+- **Soft Skills**: Communication, critical thinking, collaboration, time management
+
+---
+
+## 📊 What You'll Find Here
+
+- 📈 Data analysis projects that uncover trends and insights  
+- 📊 Interactive dashboards and visual reports  
+- 🧠 Case studies on real-world business problems  
+- 📂 Templates for business documents and reporting  
+- 🔧 Tools and scripts for automating business tasks  
+
+---
+
+## 📫 Let's Connect!
+
+- ✉️ Email: jagadishmuthuraj026@gmail.com 
+- 🌐 Portfolio: https://github.com/jagadishmuthuraj
+
+Feel free to explore my repositories, raise issues, or collaborate!  
+Thank you for visiting 💼✨
+
+---
